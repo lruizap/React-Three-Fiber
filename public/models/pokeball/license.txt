@@ -1,0 +1,11 @@
+Model Information:
+* title:	Worn Out Pokéball
+* source:	https://sketchfab.com/3d-models/worn-out-pokeball-38b8ba43ed6f45228762e2d3ed2cae6c
+* author:	Ray Dima (https://sketchfab.com/JRxRay)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Worn Out Pokéball" (https://sketchfab.com/3d-models/worn-out-pokeball-38b8ba43ed6f45228762e2d3ed2cae6c) by Ray Dima (https://sketchfab.com/JRxRay) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
