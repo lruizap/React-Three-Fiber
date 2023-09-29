@@ -29,7 +29,7 @@ const App = () => {
 
         <Marshadow position={[1.7, -0.56, 0.25]} />
 
-        <GlobalAnimatedModel model='/public/models/pokeball/scene.gltf' position={[6, -1, 0]} rotation={[0, Math.PI / 2, 0]} scale={1} />
+        <GlobalAnimatedModel model='/models/pokeball/scene.gltf' position={[6, -1, 0]} rotation={[0, Math.PI / 2, 0]} scale={1} />
 
         <ambientLight />
 
